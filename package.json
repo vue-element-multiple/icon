@@ -1,7 +1,7 @@
 {
   "name": "vue-element-multiple-icon",
   "description": "Element Icon clone, and did just a little change.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "vue-element-multiple",
   "main": "lib/icon.js",
   "files": [
